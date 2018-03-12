@@ -1,0 +1,17 @@
+table {margin:0 auto;}
+th, td, dd {text-align:left;padding:2.88px;margin:0;}
+td {font-size:113%;vertical-align:middle;}
+tr td:last-child, tr td:nth-last-child(2){word-break:break-all;}
+tr {background:#eee;}
+th {background:#def;word-wrap:break-word;}
+body {margin:7px;font-size:80%;}
+.head-nav li {margin:0 15px;display:inline;}
+.head-nav {font-size: 15px;margin:0;padding: 0;text-align: center;}
+.head-nav li a {text-decoration:none;}
+.add-new input {width:98%;}
+#result .show:hover{cursor:pointer;background:rgba(230,240,250,0.5);}
+.page {max-width:1200px;margin:0 auto;}
+.hidden {display:none;}
+.show {display:normal;}
+#alumi-panel {width:20%;}
+#alumi-panel select {float:right;}
